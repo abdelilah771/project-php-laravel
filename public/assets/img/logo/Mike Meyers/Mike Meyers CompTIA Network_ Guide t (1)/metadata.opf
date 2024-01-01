@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ab874bab-fa3a-4a73-ab50-29ed0a858bf6</dc:identifier>
+        <dc:title>Mike Meyers CompTIA Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition (Exam N10-008), 6th Edition</dc:title>
+        <dc:creator opf:file-as="Mike Meyers" opf:role="aut">Mike Meyers</dc:creator>
+        <dc:creator opf:file-as="Mike Meyers" opf:role="aut">Jonathan S. Weissman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (6.24.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-01-27T23:00:00+00:00</dc:date>
+        <dc:description>&lt;span&gt;&lt;b&gt;Practice essential IT skills and prepare for the 2021 version of the CompTIA Network+ exam&lt;/b&gt;&lt;br/&gt;&lt;br/&gt;
+This thoroughly revised lab manual challenges you to solve real-world problems by learning to successfully apply the techniques contained in &lt;i&gt;Mike Meyers’ CompTIA Network+ Guide to Managing and Troubleshooting Networks, Sixth Edition&lt;/i&gt;. Clear, measurable lab objectives map directly to every topic on the test, enabling readers to pass the challenging exam with ease.&lt;br/&gt;
+&lt;br/&gt;
+&lt;i&gt;Mike Meyers’ CompTIA Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition (Exam N10-008)&lt;/i&gt; contains more than 90 hands-on labs along with materials lists, lab setup details, and step-by-step instructions that require you to think critically. The book features special design elements that teach and reinforce retention. You will Lab Analysis questions and a Key Term Quiz that helps to build vocabulary.&lt;br/&gt;
+&lt;ul&gt;&lt;li&gt;Contains 90+ hands-on labs with clear objectives and instructions&lt;/li&gt;&lt;li&gt;Includes a 10% discount voucher coupon for the exam, a $32 value&lt;/li&gt;&lt;li&gt;Lab solutions are not printed in the book and are only available to adopting instructors&lt;/li&gt;&lt;/ul&gt;
+&lt;b&gt;Publisher's Note: Products purchased from Third Party sellers are not guaranteed by the publisher for quality, authenticity, or access to any online entitlements included with the product.&lt;/b&gt;&lt;br/&gt;
+
+  &lt;/span&gt;</dc:description>
+        <dc:publisher>McGraw-Hill</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781264274734</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta name="calibre:timestamp" content="2023-11-28T09:58:14.936291+00:00"/>
+        <meta name="calibre:title_sort" content="Mike Meyers CompTIA Network+ Guide to Managing and Troubleshooting Networks Lab Manual, Sixth Edition (Exam N10-008), 6th Edition"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
