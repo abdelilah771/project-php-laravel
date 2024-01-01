@@ -41,3 +41,7 @@ Route::post('products/checkout', [App\Http\Controllers\products\ProductsControll
 //pay
 Route::get('products/pay', [App\Http\Controllers\products\ProductsController::class, 'payWithPaypal'])->name('products.pay')->middleware('check.for.price');;
 Route::get('products/success', [App\Http\Controllers\products\ProductsController::class, 'success'])->name('products.success')->middleware('check.for.price');;
+
+//user
+Route::get('users/my-orders', [App\Http\Controllers\Users\UsersController::class, 'MyOrders'])->name('users.orders');
+Route::get('users/setting', [App\Http\Controllers\Users\UsersController::class, 'setting'])->name('users.orders');
